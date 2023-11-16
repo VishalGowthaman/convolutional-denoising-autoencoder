@@ -20,10 +20,6 @@ Rescale the data so that the training is made easier.
 We create two networks , one for encoding and one for decoding.
 
 ## PROGRAM
-```
-Developed By: Vishal Gowthaman K R
-Register Number: 212221230123
-```
 ```python
 from tensorflow import keras
 from tensorflow.keras import layers
